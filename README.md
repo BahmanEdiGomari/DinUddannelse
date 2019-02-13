@@ -1,2 +1,3 @@
 # DinUddannelse
 * mars
+* venus
