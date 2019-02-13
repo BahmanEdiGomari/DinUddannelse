@@ -1,3 +1,4 @@
 # DinUddannelse
 * mars
 * venus
+* earth
